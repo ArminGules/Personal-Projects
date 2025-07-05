@@ -20,6 +20,7 @@ public class Main {
                 number_attempts++;
                 System.out.println("Congratulations! You guessed it!");
                 System.out.println("Number of attempts: "+number_attempts);
+                break;
 
             }
             else if(userguess>rngnum)
